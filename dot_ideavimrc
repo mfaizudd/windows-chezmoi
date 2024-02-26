@@ -1,0 +1,5 @@
+let mapleader = " "
+set number
+set relativenumber
+nnoremap <leader>ff :ReformatCode<cr>
+nnoremap <leader>sf :GotoFile<cr>
